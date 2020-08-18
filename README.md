@@ -119,7 +119,7 @@ if __name__ == '__main__':
 ### Other stats
 <img align="left" alt="Mo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xm0&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
 
----
+
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xm0&hide=html" alt="0xm0" />
