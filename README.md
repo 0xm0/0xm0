@@ -99,7 +99,7 @@ if __name__ == '__main__':
         <img height="64px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
+        <span>Firebase</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
       </td>
       <td width="25%" align="center">
