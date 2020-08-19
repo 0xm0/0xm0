@@ -122,6 +122,6 @@ if __name__ == '__main__':
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xm0&hide=html" alt="0m0" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xm0&hide=html" alt="0xm0" />
 </p>
 
