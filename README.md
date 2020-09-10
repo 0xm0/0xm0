@@ -37,7 +37,7 @@ class 0xm0:
             'devops': ['Docker', 'Apache', 'GitHub Actions', 'AWS', 'Heroku'],
             'tools': ['GitHub', 'VS Code', 'SQLAlchemy', 'SolidWorks', 'Redis'],
             'misc': ['Firebase', 'MS Server 2019', 'Windows Domain Controller', 'GNU/Linux']
-            'cybersecurity': ['Vulnerabilities', 'XSS', 'Paylods', 'Wireless', 'RATS', 'Kali', 'ParrotOS']
+            'cybersecurity': ['Vulnerabilities', 'XSS', 'Payloads', 'Wireless', 'RATS', 'Kali', 'ParrotOS']
             'networking': ['CCNA Certified', 'DNS', 'Cryptography', 'Tunneling', 'VPN']
         }
         dev.summary = ['Security', 'Networking', 'Programming', 'microservices']
