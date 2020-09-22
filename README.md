@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning **Python, Rust, Kotlin & Advanced Algebra**
 - 👯 I’m looking to collaborate and work many organizations or company.
 - ⚡ Fun fact: I play minecraft :)
-- 🥅 2020 Goals: Complete 4 Cyber Security & Penetration Testing Certifications
+- 🥅 2020 Goals: Complete 3 Cyber Security related Certifications
 
 ---
 
