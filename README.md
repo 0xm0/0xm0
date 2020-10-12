@@ -1,7 +1,7 @@
 ## Hey, I'm Mo 👋
 
 - 💻 I'm a Cyber Security Student
-- 🌱 I'm currently learning **Python, Rust, Kotlin & Advanced Algebra**
+- 🌱 I'm currently learning **Data Structures, Artificial Intelligence, Machine Learning, & Advanced Algebra**
 - 👯 I’m looking to collaborate and work many organizations or company.
 - ⚡ Fun fact: I play minecraft :)
 - 🥅 2020 Goals: Complete 3 Cyber Security related Certifications
