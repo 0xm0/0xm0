@@ -34,7 +34,7 @@ class 0xm0:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'VueJS', 'Boostrap', 'TailWind'],
             'backend': ['Python', 'PHP', 'Flask', 'FastAPI', 'Laravel', 'NodeJS'],
             'database': ['MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Apache', 'GitHub Actions', 'AWS', 'Heroku'],
+            'devops': ['Docker', 'Apache', 'GitHub Actions', 'AWS', 'Azure'],
             'tools': ['GitHub', 'VS Code', 'SQLAlchemy', 'SolidWorks', 'Redis'],
             'misc': ['Firebase', 'MS Server 2019', 'Windows Domain Controller', 'GNU/Linux']
             'cybersecurity': ['Vulnerabilities', 'XSS', 'Payloads', 'Wireless', 'RATS', 'Kali', 'ParrotOS']
