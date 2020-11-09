@@ -35,7 +35,7 @@ class 0xm0:
             'backend': ['Python', 'PHP', 'Flask', 'FastAPI', 'Laravel', 'NodeJS'],
             'database': ['MySQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'Apache', 'GitHub Actions', 'AWS', 'Azure'],
-            'tools': ['GitHub', 'VS Code', 'SQLAlchemy', 'SolidWorks', 'Redis'],
+            'tools': ['GitHub', 'VS Code', 'Termius', 'SolidWorks', 'Redis'],
             'misc': ['Firebase', 'MS Server 2019', 'Windows Domain Controller', 'GNU/Linux']
             'cybersecurity': ['Vulnerabilities', 'XSS', 'Payloads', 'Wireless', 'RATS', 'Kali', 'ParrotOS']
             'networking': ['CCNA Certified', 'DNS', 'Cryptography', 'Tunneling', 'VPN']
