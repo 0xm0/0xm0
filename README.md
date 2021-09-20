@@ -3,11 +3,15 @@
 - 💻 I'm a Cyber Security Student
 - 🌱 I'm currently learning **Data Structures, Artificial Intelligence and Advanced Mathematics**
 - 👯 I’m open to collaborate!
-- ⚡ Fun fact: The longest English word is 189,819 letters long
-- 🥅 2021 Goals: Study and complete at least 3 certifications.
+- ⚡ Fun fact: It takes 8 minutes, 19 seconds for light to travel from the Sun to the Earth
+- 🥅 2021 Goals: Keep Learning!
 
 ---
-
+<p align="center">
+  <a href="https://discord.com/users/569964436165754924">
+  <img src="https://lanyard-profile-readme.vercel.app/api/539010313463267367?animated=true" align="center" height="200">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/0xm0?tab=followers">
@@ -25,4 +29,5 @@
 
 ### Somewhat useful resources
 
-https://gist.github.com/0xm0
+![Click here to visit my Gists](https://gist.github.com/0xm0)
+![](https://hit.yhype.me/github/profile?user_id=52047639)
