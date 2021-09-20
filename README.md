@@ -9,7 +9,7 @@
 ---
 <p align="center">
   <a href="https://discord.com/users/569964436165754924">
-  <img src="https://lanyard-profile-readme.vercel.app/api/539010313463267367?animated=true" align="center" height="200">
+  <img src="https://lanyard-profile-readme.vercel.app/api/539010313463267367?animated=true&hideDiscrim=true&idleMessage=Probably%20busy%20doing%20something%20important%20like%20saving%20the%20world%20or%20having%20lunch..." align="center" height="220">
   </a>
 </p>
 
