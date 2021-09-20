@@ -29,5 +29,5 @@
 
 ### Somewhat useful resources
 
-![Click here to visit my Gists](https://gist.github.com/0xm0)
+[Click here to visit my Gists](https://gist.github.com/0xm0)
 ![](https://hit.yhype.me/github/profile?user_id=52047639)
