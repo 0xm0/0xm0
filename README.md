@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning **Data Structures, Artificial Intelligence and Advanced Mathematics**
 - 👯 I’m open to collaborate!
 - ⚡ Fun fact: It takes 8 minutes, 19 seconds for light to travel from the Sun to the Earth
-- 🥅 2021 Goals: Keep Learning!
+- 🥅 2022 Goals: Keep Learning!
 
 ---
 <p align="center">
